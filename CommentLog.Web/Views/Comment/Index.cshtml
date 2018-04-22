@@ -1,0 +1,92 @@
+﻿@model List<CommentLog.ViewModel.CommentsVM>
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+
+<div class="row">
+    <div id="comment-section" class="comment-single">  
+        <div>
+
+            <div  style="margin-left: 30%;  margin-bottom: 5px; margin-top: 8px;">
+                <input type="text" id="sr-comment" class="form-control" placeholder="Search a Comment ..." style="display: inline;" />
+                <button type="button" id="btn-sr-comment" class="btn btn-default"><span class="glyphicon glyphicon-comment" aria-hidden="true"></span></button>
+            </div>
+
+        </div>       
+        <hr class="m-t-30 m-b-30">
+        <div id="divComments">            
+         @{Html.RenderPartial("_Comments", Model); }
+        </div>
+
+        <div>
+
+            <div class="AddComment" style="margin-left: 30%;  margin-bottom: 5px; margin-top: 8px;">
+                <input type="text" id="txt-comment" class="form-control" placeholder="Add a Comment ..." style="display: inline;" />
+                <button type="button" id="btn-add-comment" class="btn btn-default"><span class="glyphicon glyphicon-comment" aria-hidden="true"></span></button>
+            </div>
+
+        </div> 
+
+    </div>
+</div>
+             
+
+@section Scripts {
+    <script type="text/javascript">
+        $(function () {
+            $("#btn-add-comment").click(function () {
+                var objComment = {};
+                objComment.CommentMsg = $("#txt-comment").val();
+                var token = $('input[name="__RequestVerificationToken"]').val();
+                var headers = {};
+                headers['__RequestVerificationToken'] = token;
+                $.ajax({
+                    type: "POST",
+                    url: "/Comment/AddComment",
+                    data: '{comment: ' + JSON.stringify(objComment) + '}',
+                    contentType: "application/json; charset=utf-8",
+                    dataType: "html",
+                    headers: headers,
+                    success: function (response) {
+
+                        $("#divComments ul").append(response);
+                        $('#txt-comment').val('');
+                    },
+                    failure: function (response) {
+                        console.log(response);
+                    },
+                    error: function (response) {                        
+                        console.log(response);
+                    }
+                });
+            });
+
+            $("#btn-sr-comment").click(function () {
+                
+                var searchTerm = $("#sr-comment").val();
+
+                $.ajax({
+                    type: "POST",
+                    url: "/Comment/SearchComment",
+                    data: '{searchTerm: ' + JSON.stringify(searchTerm) + '}',
+                    contentType: "application/json; charset=utf-8",
+                    dataType: "html",
+                    success: function (response) {
+
+                        $("#divComments").text('');
+                        $("#divComments").append(response);
+                    },
+                    failure: function (response) {
+                        console.log(response);
+                    },
+                    error: function (response) {
+                        console.log(response);
+                    }
+                });
+            });
+        });
+    </script>
+}

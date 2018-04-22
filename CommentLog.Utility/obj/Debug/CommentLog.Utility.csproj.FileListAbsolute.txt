@@ -1,0 +1,11 @@
+c:\users\vineet.mangla\documents\visual studio 2015\Projects\CommentLog.Web\CommentLog.Utility\bin\Debug\CommentLog.Utility.dll
+c:\users\vineet.mangla\documents\visual studio 2015\Projects\CommentLog.Web\CommentLog.Utility\bin\Debug\CommentLog.Utility.pdb
+c:\users\vineet.mangla\documents\visual studio 2015\Projects\CommentLog.Web\CommentLog.Utility\obj\Debug\CommentLog.Utility.csprojResolveAssemblyReference.cache
+c:\users\vineet.mangla\documents\visual studio 2015\Projects\CommentLog.Web\CommentLog.Utility\obj\Debug\CommentLog.Utility.dll
+c:\users\vineet.mangla\documents\visual studio 2015\Projects\CommentLog.Web\CommentLog.Utility\obj\Debug\CommentLog.Utility.pdb
+C:\Users\vineet.mangla\Documents\Visual Studio 2015\Projects\CommentLog.Web\CommentLog.Utility\bin\Debug\CommentLog.DomainModel.dll
+C:\Users\vineet.mangla\Documents\Visual Studio 2015\Projects\CommentLog.Web\CommentLog.Utility\bin\Debug\CommentLog.DTO.dll
+C:\Users\vineet.mangla\Documents\Visual Studio 2015\Projects\CommentLog.Web\CommentLog.Utility\bin\Debug\CommentLog.ViewModel.dll
+C:\Users\vineet.mangla\Documents\Visual Studio 2015\Projects\CommentLog.Web\CommentLog.Utility\bin\Debug\CommentLog.DomainModel.pdb
+C:\Users\vineet.mangla\Documents\Visual Studio 2015\Projects\CommentLog.Web\CommentLog.Utility\bin\Debug\CommentLog.DTO.pdb
+C:\Users\vineet.mangla\Documents\Visual Studio 2015\Projects\CommentLog.Web\CommentLog.Utility\bin\Debug\CommentLog.ViewModel.pdb

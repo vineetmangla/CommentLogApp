@@ -1,0 +1,19 @@
+﻿@model CommentLog.ViewModel.CommentsVM
+<li class="media">
+    <div class="media">
+        <div class="media-left">
+            <a href="#">
+                <img class="media-object img-circle comment-img" src="assets/images/avatar-1.png" alt="">
+            </a>
+        </div>
+        <div class="media-body blog-s-reply">
+            <h6 class="media-heading">@Model.UserId<span>@Model.CommentDate</span></h6>
+            <p>@Model.CommentMsg</p>
+            <div class="blog-u-comment">
+                @*<span>36 <i class="icofont icofont-curved-up"></i><i class="icofont icofont-curved-down"></i></span>
+                    <span class="blog-reply"><a href="#!">Reply</a></span><span class="blog-edit"><a href="#!">Edit</a> </span>*@
+            </div>
+            <hr>
+        </div>
+    </div>
+</li>

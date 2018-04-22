@@ -1,0 +1,4 @@
+C:\Users\vineet.mangla\Documents\Visual Studio 2015\Projects\CommentLog.Web\CommentLog.DomainModel\bin\Debug\CommentLog.DomainModel.dll
+C:\Users\vineet.mangla\Documents\Visual Studio 2015\Projects\CommentLog.Web\CommentLog.DomainModel\bin\Debug\CommentLog.DomainModel.pdb
+C:\Users\vineet.mangla\Documents\Visual Studio 2015\Projects\CommentLog.Web\CommentLog.DomainModel\obj\Debug\CommentLog.DomainModel.dll
+C:\Users\vineet.mangla\Documents\Visual Studio 2015\Projects\CommentLog.Web\CommentLog.DomainModel\obj\Debug\CommentLog.DomainModel.pdb

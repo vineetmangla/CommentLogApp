@@ -1,0 +1,4 @@
+c:\users\vineet.mangla\documents\visual studio 2015\Projects\CommentLog.Web\CommentLog.DTO\bin\Debug\CommentLog.DTO.dll
+c:\users\vineet.mangla\documents\visual studio 2015\Projects\CommentLog.Web\CommentLog.DTO\bin\Debug\CommentLog.DTO.pdb
+c:\users\vineet.mangla\documents\visual studio 2015\Projects\CommentLog.Web\CommentLog.DTO\obj\Debug\CommentLog.DTO.dll
+c:\users\vineet.mangla\documents\visual studio 2015\Projects\CommentLog.Web\CommentLog.DTO\obj\Debug\CommentLog.DTO.pdb

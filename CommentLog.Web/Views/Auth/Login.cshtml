@@ -1,0 +1,28 @@
+﻿@model CommentLog.ViewModel.UsersVM
+@{
+    ViewBag.Title = "Login";
+}
+
+<h2>Log In</h2>
+
+@Html.ValidationSummary(false)
+
+@using (Html.BeginForm())
+{
+   @Html.AntiForgeryToken();
+    <div class="editor-label">
+        @Html.LabelFor(model => model.Email)
+    </div>
+    <div class="editor-field">
+        @Html.TextBoxFor(model => model.Email)
+    </div>
+    <div class="editor-label">
+        @Html.LabelFor(model => model.Password)
+    </div>
+    <div class="editor-field">
+        @Html.PasswordFor(model => model.Password)
+    </div>
+    <p>
+        <button type="submit"> Log In</button>
+    </p>
+}

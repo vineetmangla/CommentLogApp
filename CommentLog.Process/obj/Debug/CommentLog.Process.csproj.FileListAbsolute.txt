@@ -1,0 +1,17 @@
+c:\users\vineet.mangla\documents\visual studio 2015\Projects\CommentLog.Web\CommentLog.Process\bin\Debug\CommentLog.Process.dll
+c:\users\vineet.mangla\documents\visual studio 2015\Projects\CommentLog.Web\CommentLog.Process\bin\Debug\CommentLog.Process.pdb
+c:\users\vineet.mangla\documents\visual studio 2015\Projects\CommentLog.Web\CommentLog.Process\obj\Debug\CommentLog.Process.csprojResolveAssemblyReference.cache
+c:\users\vineet.mangla\documents\visual studio 2015\Projects\CommentLog.Web\CommentLog.Process\obj\Debug\CommentLog.Process.dll
+c:\users\vineet.mangla\documents\visual studio 2015\Projects\CommentLog.Web\CommentLog.Process\obj\Debug\CommentLog.Process.pdb
+C:\Users\vineet.mangla\Documents\Visual Studio 2015\Projects\CommentLog.Web\CommentLog.Process\bin\Debug\CommentLog.DAL.dll
+C:\Users\vineet.mangla\Documents\Visual Studio 2015\Projects\CommentLog.Web\CommentLog.Process\bin\Debug\CommentLog.DomainModel.dll
+C:\Users\vineet.mangla\Documents\Visual Studio 2015\Projects\CommentLog.Web\CommentLog.Process\bin\Debug\CommentLog.DTO.dll
+C:\Users\vineet.mangla\Documents\Visual Studio 2015\Projects\CommentLog.Web\CommentLog.Process\bin\Debug\CommentLog.Utility.dll
+C:\Users\vineet.mangla\Documents\Visual Studio 2015\Projects\CommentLog.Web\CommentLog.Process\bin\Debug\EntityFramework.dll
+C:\Users\vineet.mangla\Documents\Visual Studio 2015\Projects\CommentLog.Web\CommentLog.Process\bin\Debug\CommentLog.ViewModel.dll
+C:\Users\vineet.mangla\Documents\Visual Studio 2015\Projects\CommentLog.Web\CommentLog.Process\bin\Debug\CommentLog.DAL.pdb
+C:\Users\vineet.mangla\Documents\Visual Studio 2015\Projects\CommentLog.Web\CommentLog.Process\bin\Debug\CommentLog.DomainModel.pdb
+C:\Users\vineet.mangla\Documents\Visual Studio 2015\Projects\CommentLog.Web\CommentLog.Process\bin\Debug\CommentLog.DTO.pdb
+C:\Users\vineet.mangla\Documents\Visual Studio 2015\Projects\CommentLog.Web\CommentLog.Process\bin\Debug\CommentLog.Utility.pdb
+C:\Users\vineet.mangla\Documents\Visual Studio 2015\Projects\CommentLog.Web\CommentLog.Process\bin\Debug\EntityFramework.xml
+C:\Users\vineet.mangla\Documents\Visual Studio 2015\Projects\CommentLog.Web\CommentLog.Process\bin\Debug\CommentLog.ViewModel.pdb

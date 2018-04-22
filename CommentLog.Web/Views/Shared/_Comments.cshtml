@@ -1,0 +1,10 @@
+﻿@model List<CommentLog.ViewModel.CommentsVM>
+<ul class="media-list">
+
+    @foreach (var comment in Model)
+    {
+        Html.RenderPartial("_Comment", comment);
+    }
+
+</ul>
+ 

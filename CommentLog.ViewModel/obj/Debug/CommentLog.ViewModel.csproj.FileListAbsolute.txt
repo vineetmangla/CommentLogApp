@@ -1,0 +1,5 @@
+c:\users\vineet.mangla\documents\visual studio 2015\Projects\CommentLog.Web\CommentLog.ViewModel\bin\Debug\CommentLog.ViewModel.dll
+c:\users\vineet.mangla\documents\visual studio 2015\Projects\CommentLog.Web\CommentLog.ViewModel\bin\Debug\CommentLog.ViewModel.pdb
+c:\users\vineet.mangla\documents\visual studio 2015\Projects\CommentLog.Web\CommentLog.ViewModel\obj\Debug\CommentLog.ViewModel.csprojResolveAssemblyReference.cache
+c:\users\vineet.mangla\documents\visual studio 2015\Projects\CommentLog.Web\CommentLog.ViewModel\obj\Debug\CommentLog.ViewModel.dll
+c:\users\vineet.mangla\documents\visual studio 2015\Projects\CommentLog.Web\CommentLog.ViewModel\obj\Debug\CommentLog.ViewModel.pdb

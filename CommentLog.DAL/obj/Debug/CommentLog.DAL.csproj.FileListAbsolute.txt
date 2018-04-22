@@ -1,0 +1,12 @@
+C:\Users\vineet.mangla\Documents\Visual Studio 2015\Projects\CommentLog.Web\CommentLog.DAL\bin\Debug\CommentLog.DAL.dll.config
+C:\Users\vineet.mangla\Documents\Visual Studio 2015\Projects\CommentLog.Web\CommentLog.DAL\bin\Debug\CommentLog.DAL.dll
+C:\Users\vineet.mangla\Documents\Visual Studio 2015\Projects\CommentLog.Web\CommentLog.DAL\bin\Debug\CommentLog.DAL.pdb
+C:\Users\vineet.mangla\Documents\Visual Studio 2015\Projects\CommentLog.Web\CommentLog.DAL\bin\Debug\CommentLog.DomainModel.dll
+C:\Users\vineet.mangla\Documents\Visual Studio 2015\Projects\CommentLog.Web\CommentLog.DAL\bin\Debug\EntityFramework.dll
+C:\Users\vineet.mangla\Documents\Visual Studio 2015\Projects\CommentLog.Web\CommentLog.DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\vineet.mangla\Documents\Visual Studio 2015\Projects\CommentLog.Web\CommentLog.DAL\bin\Debug\CommentLog.DomainModel.pdb
+C:\Users\vineet.mangla\Documents\Visual Studio 2015\Projects\CommentLog.Web\CommentLog.DAL\bin\Debug\EntityFramework.xml
+C:\Users\vineet.mangla\Documents\Visual Studio 2015\Projects\CommentLog.Web\CommentLog.DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\vineet.mangla\Documents\Visual Studio 2015\Projects\CommentLog.Web\CommentLog.DAL\obj\Debug\CommentLog.DAL.csprojResolveAssemblyReference.cache
+C:\Users\vineet.mangla\Documents\Visual Studio 2015\Projects\CommentLog.Web\CommentLog.DAL\obj\Debug\CommentLog.DAL.dll
+C:\Users\vineet.mangla\Documents\Visual Studio 2015\Projects\CommentLog.Web\CommentLog.DAL\obj\Debug\CommentLog.DAL.pdb
